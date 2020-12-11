@@ -20,6 +20,9 @@ h5 {
 	color: #C0C0C0;
 	text-align: center;
 }
+header{
+	text-align: center;
+}
 .container {
 	align-self: center;
 	width: 100%;
